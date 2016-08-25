@@ -15,18 +15,87 @@ Détenteur du permis B
 
 ---
 
-==== Expériences dans l'Informatique
+==== Expériences Informatiques
 
 [cols="100",frame=none,grid=none]
 |===
-45+<a|*Réalisation d'un service web d'attaques de Java Card*
-20+^a|_Projet professionnel_
-20+^a|_Université de Bordeaux_
-15+<a|_Février-Mars 2016_
 
-45+<a|*Réalisation d'un service web d'attaques de Java Card*
+40+<a|*Evolution de la Plateforme de Supervision*
+20+^a|_Stage_
+25+^a|_SQLi Bordeaux_
+15+>a|_Avril-Septembre 2016_
+
+100+<a|Entreprise avec une culture _DevOps_ avancé et un projet de _continuous delivery_. Mise en place de bonnes pratiques +
+Evolution de la plateforme _Zabbix_ avec l'utilisation de _Ansible_. Supervision de containers _Docker_. _Script Bash et Python_. +
+Helpdesk et support sur les platerformes _VMWare ESXi_ et _OpenStack_ (debug, création de machines virtuelles)
+
+35+<a|*Application web d'attaques de Java Card*
 20+^a|_Projet professionnel_
-20+^a|_Université de Bordeaux_
-15+<a|_Février-Mars 2016_
+25+^a|_Université de Bordeaux_
+20+>a|_Février-Mars 2016_
+
+100+<a|Création d'une application web. Serveur web _Apache_ et SGBDR _MySQL_ dans un container _Docker_. +
+Sécurisation de l'environnement grâce aux _IPTables_. Déploiement de l'environnement automatiser avec des _scripts Bash_.
+
+40+<a|*Application web pour expériences prosodiques*
+20+^a|_Projet professionnel_
+25+^a|_Université de Bordeaux_
+15+>a|_Février-Mars 2015_
+
+100+<a|Création d'une application web en _JAVA_ et _API JAVA FX_. Utilisation du SGBDR _SQLite_.
+
+35+<a|*Application de gestion de projet (GANTT)*
+20+^a|_Projet professionnel_
+25+^a|_Université Blaise Pascal_
+20+>a|_Février-Mars 2014_
+
+100+<a|Création d'une application web en _JEE_. Utilisation du SGBDR _MySQL_.
+
+35+<a|*Mise en place d'un serveur mandataire*
+20+^a|_Stage_
+25+^a|_SDIS 43_
+20+>a|_Janvier-Mars 2012_
+
+100+<a|Mise en place d'un serveur mandataire _Squid_ dans un environnement _Windows Serveur 2008 R2_.
+
+|===
+
+==== Formations
+
+[cols="100",frame=none,grid=none]
+|===
+
+50+<a|*Master Informatique - Réseaux, Système et Mobile*
+40+^a|_Université de Bordeaux_
+10+>a|2014-2016
+
+50+<a|*Licence Informatique*
+40+^a|_Université Blaise Pascal_ - Clermont-Ferrand
+10+>a|2014
+
+50+<a|*BTS Informatique de Gestion - Administration des réseaux*
+40+^a|_Pôle La Chartreuse_ - Le Puy-en-Velay
+10+>a|2012
+
+50+<a|*BTS Informatique de Gestion - Développement d'Applications*
+40+^a|_Pôle La Chartreuse_ - Le Puy-en-Velay
+10+>a|2011
+
+50+<a|*Bacalauréat Scientifique*
+40+^a|_PNDF_ - Le Puy-en-Velay
+10+>a|2009
+
+|===
+
+==== Compétences
+
+[cols="100",frame=none,grid=none]
+|===
+
+20+<a|*Réseaux*
+80+<a|_Protocoles_: Ethernet,IP,ICMP,TCP/UDP _Administration_: Apache, DHCP, NFS, LDAP +
+_Sécurité_: IPTables,IPSec,NMAP _Supervision et monitoring_: Zabbix, Wireshark, TCPdump +
+
+
 
 |===
