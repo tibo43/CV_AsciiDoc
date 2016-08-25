@@ -1,20 +1,32 @@
+== FABRE THIBAUT
+=== Ingénieur Systèmes et Réseaux - DevOps
+
+[cols="100",width="75",align=center,frame=none,grid=none]
+|===
+50+<a|16 rue lacordaire +
+75015 Paris +
+(+33) 6 75 75 81 58 +
+Né le 26/02/1991
+50+>a|fabre.thibaut@gmail.com +
+fr.linkedin.com/in/thibautfabre +
+Français (natif) - Anglais (B1+) - Espagnol (A2) +
+Détenteur du permis B
+|===
+
+---
+
+==== Expériences dans l'Informatique
+
 [cols="100",frame=none,grid=none]
 |===
-100^a|= FABRE THIBAUT
-50+<a|== Ingénieur Systèmes et Réseaux +
-Français (natif) - Anglais (B1+) - Espagnol (A2) +
-Né le 26/02/1991 +
-Détenteur du permis B
-50+>|16 rue lacordaire, 75015 Paris +
-(+33) 6 75 75 81 58 +
-fabre.thibaut@gmail.com +
-fr.linkedin.com/in/thibautfabre +
+45+<a|*Réalisation d'un service web d'attaques de Java Card*
+20+^a|_Projet professionnel_
+20+^a|_Université de Bordeaux_
+15+<a|_Février-Mars 2016_
 
-100+^a|---
+45+<a|*Réalisation d'un service web d'attaques de Java Card*
+20+^a|_Projet professionnel_
+20+^a|_Université de Bordeaux_
+15+<a|_Février-Mars 2016_
 
-100+^a|=== Expériences dans l'Informatique
-
-75+<a|*Réalisation d'un service web d'attaques de Java Card* — _Projet professionnel_
-15+>a|_Université de Bordeaux_
-10+>a|_Février-Mars 2016_
 |===
