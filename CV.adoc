@@ -93,9 +93,22 @@ Sécurisation de l'environnement grâce aux _IPTables_. Déploiement de l'enviro
 |===
 
 20+<a|*Réseaux*
-80+<a|_Protocoles_: Ethernet,IP,ICMP,TCP/UDP _Administration_: Apache, DHCP, NFS, LDAP +
-_Sécurité_: IPTables,IPSec,NMAP _Supervision et monitoring_: Zabbix, Wireshark, TCPdump +
+80+<a|_Protocoles_: Ethernet,IP,ICMP,TCP/UDP,SNMP,SSH - _Administration_: Apache, DHCP, NFS, LDAP, DNS +
+_Sécurité_: IPTables,IPSec,NMAP - _Supervision et monitoring_: Zabbix, Wireshark, TCPdump +
+_Automatisation_: Ansible, Jenkins - _SGBDR_: MySQL/MariaDB, SQLite - _Haute Disponibilité_: Keepalived, HAProxy
 
+20+<a|*Systèmes*
+80+<a|_GNU/Linux_: Debian, Ubuntu, RedHat, Centos, CoreOS, _Windows_: 7/8/10, Service 2008, Serveur 2012.
 
+20+<a|*Virtualisations*
+80+<a|Docker, VMWare Workstation, VMWare ESXi (5.0,5.5), Connaissance et manipulation partielle de l'environnement OpenStack.
+
+ 20+<a|*Langages Programmation*
+80+<a|Shell/Bash, Python, SQL, Batch, C, PHP, JAVA/J2EE
+
+ 20+<a|*Divers*
+80+<a|AsciiDoc, Git, YAML, logiciel GNS3, LATEX, Microsoft Office.
 
 |===
+
+==== Centres d'intérêts
