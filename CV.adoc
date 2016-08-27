@@ -1,114 +1,140 @@
 == FABRE THIBAUT
 === Ingénieur Systèmes et Réseaux - DevOps
 
-[cols="100",width="75",align=center,frame=none,grid=none]
+[cols="100",width="90",align=center]
 |===
-50+<a|16 rue lacordaire +
-75015 Paris +
+
+33+^a|16 rue lacordaire, 75015 Paris +
 (+33) 6 75 75 81 58 +
 Né le 26/02/1991
-50+>a|fabre.thibaut@gmail.com +
-fr.linkedin.com/in/thibautfabre +
-Français (natif) - Anglais (B1+) - Espagnol (A2) +
+33+^a|fabre.thibaut@gmail.com +
+link:http://fr.linkedin.com/in/thibautfabre[linkedin.com/in/thibautfabre] +
 Détenteur du permis B
+34+^a|Français (natif) +
+Anglais (B1+) +
+Espagnol (A2)
+
 |===
 
 ---
 
 ==== Expériences Informatiques
 
-[cols="100",frame=none,grid=none]
+[cols="100"]
 |===
 
 40+<a|*Evolution de la Plateforme de Supervision*
-20+^a|_Stage_
-25+^a|_SQLi Bordeaux_
-15+>a|_Avril-Septembre 2016_
+17+^a|_Stage_
+23+^a|_SQLi Bordeaux_
+20+>a|_Avril-Septembre 2016_
 
-100+<a|Entreprise avec une culture _DevOps_ avancé et un projet de _continuous delivery_. Mise en place de bonnes pratiques +
+100+<a|Entreprise avec une culture _DevOps_ et projet de _continuous delivery_. Mise en place de bonnes pratiques et d'automatisation. +
 Evolution de la plateforme _Zabbix_ avec l'utilisation de _Ansible_. Supervision de containers _Docker_. _Script Bash et Python_. +
-Helpdesk et support sur les platerformes _VMWare ESXi_ et _OpenStack_ (debug, création de machines virtuelles)
+Approfondissement des connaissances de _Docker_ et découverte de l'environnement _OpenStack_ +
+Support sur les platerformes _VMWare ESXi_ (5.0 et 5.5) et _OpenStack_ (debug de l'environnement, création et réparation de machines virtuelles). Helpdesk et mise en place d'environnement pour les développeurs.
 
-35+<a|*Application web d'attaques de Java Card*
-20+^a|_Projet professionnel_
-25+^a|_Université de Bordeaux_
+40+<a|*Application web d'attaques de Java Card*
+17+^a|_Projet professionnel_
+23+^a|_Université de Bordeaux_
 20+>a|_Février-Mars 2016_
 
 100+<a|Création d'une application web. Serveur web _Apache_ et SGBDR _MySQL_ dans un container _Docker_. +
 Sécurisation de l'environnement grâce aux _IPTables_. Déploiement de l'environnement automatiser avec des _scripts Bash_.
 
 40+<a|*Application web pour expériences prosodiques*
-20+^a|_Projet professionnel_
-25+^a|_Université de Bordeaux_
-15+>a|_Février-Mars 2015_
+17+^a|_Projet professionnel_
+23+^a|_Université de Bordeaux_
+20+>a|_Février-Mars 2015_
 
 100+<a|Création d'une application web en _JAVA_ et _API JAVA FX_. Utilisation du SGBDR _SQLite_.
 
-35+<a|*Application de gestion de projet (GANTT)*
-20+^a|_Projet professionnel_
-25+^a|_Université Blaise Pascal_
+40+<a|*Application de gestion de projet (GANTT)*
+17+^a|_Projet professionnel_
+23+^a|_Université Blaise Pascal_
 20+>a|_Février-Mars 2014_
 
 100+<a|Création d'une application web en _JEE_. Utilisation du SGBDR _MySQL_.
 
-35+<a|*Mise en place d'un serveur mandataire*
-20+^a|_Stage_
-25+^a|_SDIS 43_
+40+<a|*Mise en place d'un serveur mandataire*
+17+^a|_Stage_
+23+^a|_SDIS 43_
 20+>a|_Janvier-Mars 2012_
 
 100+<a|Mise en place d'un serveur mandataire _Squid_ dans un environnement _Windows Serveur 2008 R2_.
 
 |===
 
+---
+
 ==== Formations
 
 [cols="100",frame=none,grid=none]
 |===
 
-50+<a|*Master Informatique - Réseaux, Système et Mobile*
-40+^a|_Université de Bordeaux_
+53+<a|*Master Informatique - Réseaux, Système et Mobile*
+37+^a|_Université de Bordeaux_ - Bordeaux
 10+>a|2014-2016
 
-50+<a|*Licence Informatique*
-40+^a|_Université Blaise Pascal_ - Clermont-Ferrand
+53+<a|*Licence Informatique*
+37+^a|_Université Blaise Pascal_ - Clermont-Ferrand
 10+>a|2014
 
-50+<a|*BTS Informatique de Gestion - Administration des réseaux*
-40+^a|_Pôle La Chartreuse_ - Le Puy-en-Velay
+53+<a|*BTS Informatique de Gestion - Administration des réseaux*
+37+^a|_Pôle La Chartreuse_ - Le Puy-en-Velay
 10+>a|2012
 
-50+<a|*BTS Informatique de Gestion - Développement d'Applications*
-40+^a|_Pôle La Chartreuse_ - Le Puy-en-Velay
+53+<a|*BTS Informatique de Gestion - Développement d'Applications*
+37+^a|_Pôle La Chartreuse_ - Le Puy-en-Velay
 10+>a|2011
 
-50+<a|*Bacalauréat Scientifique*
-40+^a|_PNDF_ - Le Puy-en-Velay
+53+<a|*Bacalauréat Scientifique*
+37+^a|_PNDF_ - Le Puy-en-Velay
 10+>a|2009
 
 |===
 
+---
+
 ==== Compétences
 
-[cols="100",frame=none,grid=none]
+[cols="100"]
 |===
 
-20+<a|*Réseaux*
-80+<a|_Protocoles_: Ethernet,IP,ICMP,TCP/UDP,SNMP,SSH - _Administration_: Apache, DHCP, NFS, LDAP, DNS +
-_Sécurité_: IPTables,IPSec,NMAP - _Supervision et monitoring_: Zabbix, Wireshark, TCPdump +
-_Automatisation_: Ansible, Jenkins - _SGBDR_: MySQL/MariaDB, SQLite - _Haute Disponibilité_: Keepalived, HAProxy
+13+<a|*Réseaux*
+87+<a|_Protocoles_: Ethernet, IP, BGP, OSPF, ICMP, TCP/UDP, SNMP, SSH +
+ _Administration_: Apache, DHCP, NFS, LDAP, DNS - _Sécurité_: IPTables, IPSec, Kerberos +
+ _Automatisation_: Ansible, Jenkins - _Supervision_: Zabbix - _Monitoring_ Wireshark, TCPdump +
+ _SGBDR_: MySQL/MariaDB (Galera), SQLite - _Haute Disponibilité_: Keepalived, HAProxy.
 
-20+<a|*Systèmes*
-80+<a|_GNU/Linux_: Debian, Ubuntu, RedHat, Centos, CoreOS, _Windows_: 7/8/10, Service 2008, Serveur 2012.
+13+<a|*Systèmes*
+87+<a|_GNU/Linux_: Debian, Ubuntu, RedHat, Centos, CoreOS, _Windows_: 7/8/10, Service 2008, Serveur 2012.
 
-20+<a|*Virtualisations*
-80+<a|Docker, VMWare Workstation, VMWare ESXi (5.0,5.5), Connaissance et manipulation partielle de l'environnement OpenStack.
+13+<a|*Virtualisations*
+87+<a|Docker, VMWare Workstation, VMWare ESXi (5.0,5.5), OpenStack.
 
- 20+<a|*Langages Programmation*
-80+<a|Shell/Bash, Python, SQL, Batch, C, PHP, JAVA/J2EE
+13+<a|*Langages*
+87+<a|Shell/Bash, Python, SQL, Batch, C, PHP, JAVA.
 
- 20+<a|*Divers*
-80+<a|AsciiDoc, Git, YAML, logiciel GNS3, LATEX, Microsoft Office.
+13+<a|*Divers*
+87+<a|AsciiDoc, Git, YAML, logiciel GNS3, LATEX, Microsoft Office.
 
 |===
+
+---
 
 ==== Centres d'intérêts
+
+[cols="100"]
+|===
+
+20+^a|*Veille Technologique*
+80+<a|Culture DevOps, Docker, OpenStack, Technologies de Virtualisation, Automatisation +
+Sécurité des Réseaux, CyberSécurité, Pentesting, Systèmes Mobiles, ITS, Drone
+
+20+^a|*Sport*
+80+<a|Football, Basketball, Badminton, Running, Natation
+
+20+^a|*Cinéma/Serie TV*
+80+<a|Comédie, Drame, Animé, Mystère, Thriller
+
+|===
